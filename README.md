@@ -1,3 +1,3 @@
-# Programeerimine2
+# Programmeerimine2
 
 Ken Keller
